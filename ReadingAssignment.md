@@ -1,4 +1,4 @@
-### IF.03.01 Basic Web Techniques -- Winter 2017
+### IF.03.01 Basic Web Techniques
 # Assignment 2: Reading Assignment - Basic Html and Css
 
 ## Objective
